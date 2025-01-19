@@ -1,0 +1,21 @@
+Warehouse_ID,City,State,Latitude,Longitude
+W1,Nashik,Maharashtra,19.9975,73.7898
+W2,Behror,Rajasthan,27.8885,76.2818
+W3,Nagpur,Maharashtra,21.1458,79.0882
+W4,Gurugram,Haryana,28.4595,77.0266
+W5,Bengaluru,Karnataka,12.9716,77.5946
+W6,Kolkata,West Bengal,22.5726,88.3639
+W7,Hyderabad,Telangana,17.385,78.4867
+W8,Chennai,Tamil Nadu,13.0827,80.2707
+W9,Pune,Maharashtra,18.5204,73.8567
+W10,Jaipur,Rajasthan,26.9124,75.7873
+W11,Lucknow,Uttar Pradesh,26.8467,80.9462
+W12,Ahmedabad,Gujarat,23.0225,72.5714
+W13,Surat,Gujarat,21.1702,72.8311
+W14,Bhopal,Madhya Pradesh,23.2599,77.4126
+W15,Indore,Madhya Pradesh,22.7196,75.8577
+W16,Thiruvananthapuram,Kerala,8.5241,76.9366
+W17,Kochi,Kerala,9.9312,76.2673
+W18,Chandigarh,Punjab,30.7333,76.7794
+W19,Patna,Bihar,25.5941,85.1376
+W20,Raipur,Chhattisgarh,21.2514,81.6296

@@ -1,0 +1,11 @@
+Facility_ID,Location,Facility_Type,Latitude,Longitude,Production_Capacity,Production_Cost_Per_Unit
+F1,"Nashik, Maharashtra",Distillery,19.9975,73.7898,154900,2.69
+F2,"Behror, Rajasthan",Distillery,27.8885,76.2818,120126,3.77
+F3,"Butibori, Nagpur",Distillery,20.9417,79.0912,87742,4.02
+F4,"Kanpur, Uttar Pradesh",Distillery,26.4499,80.3319,98480,4.55
+B1,"Guwahati, Assam",Bottling,26.1445,91.7362,14962,1.56
+B2,"Patiala, Punjab",Bottling,30.3398,76.3869,72236,2.66
+B3,"Bengaluru, Karnataka",Bottling,12.9716,77.5946,19877,2.5
+B4,"Kolkata, West Bengal",Bottling,22.5726,88.3639,34428,1.83
+B5,"Hyderabad, Telangana",Bottling,17.385,78.4867,37496,2.86
+B6,"Chennai, Tamil Nadu",Bottling,13.0827,80.2707,75563,1.71
